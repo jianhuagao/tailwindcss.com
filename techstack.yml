@@ -2,7 +2,7 @@ repo_name: jianhuagao/tailwindcss.com
 report_id: d9ff9799c994ca062a0ec9f1fdc54d7e
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T06:58:26+00:00'
+timestamp: '2024-02-29T19:51:13+00:00'
 requested_by: simonswiss
 provider: github
 branch: master
@@ -69,7 +69,7 @@ tools:
   last_updated_by: Jonathan Reinink
   last_updated_on: 2021-12-16 14:52:53.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.1.0
   open_source: true
@@ -171,7 +171,7 @@ tools:
   last_updated_by: Adam Wathan
   last_updated_on: 2017-07-20 12:38:55.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.0
   license: MIT
